@@ -1,24 +1,7 @@
-# lab2
+Заварін Валентин Олександрович, КВ-31мн 
 
-## Project setup
-```
-npm install
-```
+Лабораторна робота №2: Тестування клієнтської частини Web-додатка
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Загальне завдання: розробити засоби сценарії (код) для тестування клієнтської частини (інтерфейсу користувача) Web-додатку.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://docs.google.com/document/d/1toZgz69uBtTS9JHgs56YGfDzcuEyyA-wJTGlpG2vOTs/edit?usp=sharing
